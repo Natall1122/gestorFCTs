@@ -1,21 +1,33 @@
 body{
     font-family: 'PT Sans';
+    font-size: 0.95em;
 }
 
 /* TITOLS */
 
-h1{}
+h1 {
+    font-size: 3em;
+}
 
-h2{}
+h2 {
+    font-size: 1.5em;
+}
 
-h3{}
+h3,
+h4 {
+    font-size: 1.1em;
+}
 
-h4{}
+h5 {
+    font-size: 1em;
+}
 
-h5{}
+/*  TEXT */
 
-#hola{
-    color: brown;
-    font-weight: bold;
-    font-size: 10em;
+form{
+    font-size: 1em;
+}
+
+button{
+    font-size: 1.1em;
 }
